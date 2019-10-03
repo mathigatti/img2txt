@@ -1,6 +1,6 @@
 # Image to Text conversion utilities
 
-You can find here a small tokenization framework and examples of table extraction from images using Google Vision API. Google provides a good OCR to extract text from images but the output is not the best sometimes in this repository I provide a simple postprocessing of the output in order to make it easier to use the API output.
+You can find here a small tokenization framework and examples of table extraction from images using Google Vision API. Google provides a good OCR to extract text from images but the output is not the best sometimes, in this repository I provide a simple postprocessing of the output in order to make it easier to use the API output.
 
 ## Demo
 
