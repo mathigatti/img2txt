@@ -1,0 +1,12 @@
+                          HR Information                                 Contact
+                                Position                                  Salary                                  Office                                   Extn.
+                              Accountant                                $162,700                                   Tokyo                                    5407
+           Chief Executive Officer (CEO)                              $1,200,000                                  London                                    5797
+                 Junior Technical Author                                 $86,000                           San Francisco                                    1562
+                       Software Engineer                                $132,000                                  London                                    2558
+                       Software Engineer                                $206,850                           San Francisco                                    1314
+                  Integration Specialist                                $372,000                                New York                                    4804
+                       Software Engineer                                $163,500                                  London                                    6222
+                       Pre-Sales Support                                $106,450                                New York                                    8330
+                         Sales Assistant                                $145,600                                New York                                    3990
+             Senior Javascript Developer                                $433,060                               Edinburgh                                    6224
