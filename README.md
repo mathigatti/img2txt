@@ -46,4 +46,4 @@ On the src folder there is an usage example at `table_example.py`, where the tok
 python src/table_example.py sample.png
 ```
 
-For this to work you need to replace `credential.json` with your google vision API credentials file. Check ![this](https://cloud.google.com/docs/authentication/getting-started) link for more deatails
+Note: For this to work you need to load your google credentials. You just need to replace `credential.json` with your service account key file. Check [this](https://cloud.google.com/docs/authentication/getting-started) link for more details.
