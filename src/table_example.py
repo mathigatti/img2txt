@@ -15,7 +15,7 @@ def main(imagePath):
 	# Run OCR over image. It generates a JSON with the text and the coordinates of each word
 	ocr.processFile(imagePath,'./')
 
-	# Read JSON and delete it
+	# Read JSON
 	jsonFile = changeFileExtension(imagePath.split("/")[-1],"json")
 	with open(jsonFile,'r') as f:
 	    image = json.load(f)
