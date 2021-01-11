@@ -35,9 +35,6 @@ In order to do this a postprocessing code is provided at `src/image2tokens.py`. 
 ## Requirements
 - python 3
 - python libraries (Try something like: `pip install -r requirements.txt`)
-  - google.cloud.vision
-  - google.protobuf
-  - google.oauth2
 
 ## Usage
 On the src folder there is an usage example at `table_example.py`, where the tokenization is used to parse the image of a table.
