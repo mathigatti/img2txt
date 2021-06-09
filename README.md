@@ -44,3 +44,10 @@ python table_example.py sample/input/sample.png
 ```
 
 Note: For this to work you need to load your google credentials. You just need to replace `credential.json` with your service account key file. Check [this](https://cloud.google.com/docs/authentication/getting-started) link for more details.
+
+# Alternative tools
+
+Here is a list of similar products to this that you might try
+
+- https://aws.amazon.com/es/textract/
+- https://tabula.technology/ (Extracts tables from text PDFs, not images)
