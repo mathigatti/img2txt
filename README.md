@@ -47,7 +47,7 @@ Note: For this to work you need to load your google credentials. You just need t
 
 # Alternative tools
 
-Here is a list of similar products to this that you might try
+Here is a list of similar products that you might try too
 
 - https://aws.amazon.com/es/textract/
 - https://tabula.technology/ (Extracts tables from text PDFs, not images)
